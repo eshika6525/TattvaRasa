@@ -107,8 +107,7 @@ TattvaRasa is inspired by:
 
 ## 👩‍💻 Contributors
 
-- **[Your Name]** — UI/UX Design & Development  
-- **[Add Teammates, if any]**  
+- **Bodramoni Eshika** — UI/UX Design & Development   
 - With gratitude to OpenAI, Firebase, and the creative dev community.
 
 ---
