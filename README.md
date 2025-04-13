@@ -114,5 +114,5 @@ TattvaRasa is inspired by:
 
 ## 📬 Contact
 
-📧 your-email@example.com  
+📧 eshika6525@gmail.com 
 For feedback, collaborations, or event magic ideas 🌷
